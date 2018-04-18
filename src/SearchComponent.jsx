@@ -1,7 +1,6 @@
 import React from 'react';
 import SearchBoxes from './SearchBoxes';
 import CountryList from './CountryList';
-import Loading from './Loading';
 
 export default class SearchComponent extends React.Component {
   constructor(props) {
